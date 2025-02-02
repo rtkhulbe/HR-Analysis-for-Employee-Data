@@ -1,5 +1,7 @@
-📊 Employee Job Change Analysis
+#📊 Employee Job Change Analysis
+
 📌 About This Project
+
 This repository contains an in-depth analysis of employee career trends, focusing on job change patterns, educational enrollment, relevant experience, and gender-based insights. The project utilizes data visualization to explore key factors influencing job transitions and career growth.
 
 📂 What's Inside?
