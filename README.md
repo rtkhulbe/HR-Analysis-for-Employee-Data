@@ -13,7 +13,7 @@ This project includes several data visualizations and insights, such as:
 
 A bar chart displaying the count of employees looking for a job change.
 
-🎓** University Enrollment Trends**
+🎓**University Enrollment Trends**
 
 A visualization showing the ratio of candidates enrolled in universities.
 
