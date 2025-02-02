@@ -9,7 +9,7 @@ This repository contains an in-depth analysis of employee career trends, focusin
 This project includes several data visualizations and insights, such as:
 
 
-📈** **Job Seekers vs. Non-Job Seekers****
+📈**Job Seekers vs. Non-Job Seekers**
 
 A bar chart displaying the count of employees looking for a job change.
 
@@ -17,13 +17,13 @@ A bar chart displaying the count of employees looking for a job change.
 
 A visualization showing the ratio of candidates enrolled in universities.
 
-📊** **Major Discipline Distribution****
+📊**Major Discipline Distribution**
 
 A graph depicting the distribution of employees based on their field of study.
 
-👩‍💻** **Relevant Experience by Gender**
+👩‍💻**Relevant Experience by Gender**
 
-**
+
 A gender-based breakdown of employees with relevant experience.
 
 ⚖️ **Job Change by Gender**
